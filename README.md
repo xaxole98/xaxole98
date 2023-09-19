@@ -33,4 +33,3 @@ I'm a Junior Developer with less than 4 months of experience, focused on Fronten
 
 ## 🔝 Most Contributed Repository
 ![My GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=xaxole98&limit=5&theme=radical&combine_all_yearly_contributions=true)
-![](https://visitcount.itsvg.in/api?id=xaxole98&icon=0&color=0)
