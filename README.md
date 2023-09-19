@@ -18,13 +18,13 @@ I'm a Junior Developer with less than 4 months of experience, focused on Fronten
 ## 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=xaxole98&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=xaxole98&theme=midnight-purple&hide_border=false&include_all_commits=true)
 
 
 ---
 
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xaxole98&theme=midnight-purple&hide_border=false)<br/>
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xaxole98&theme=midnight-purple&hide_border=false)
 
 
 ---
