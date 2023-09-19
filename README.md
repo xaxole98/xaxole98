@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Desarrollador Frontend en formación.<br>Siempre en busca de nuevas oportunidades para aprender y descubrir.<br>Mi objetivo es contribuir al mundo de la programación creando soluciones innovadoras y compartiendo conocimientos con la comunidad. ¡Conéctate conmigo para explorar el emocionante universo de la codificación juntos!<br>🌱 Actualmente estoy aprendiendo Java y Backend.<br><br>💬 Pregúntame sobre JavaScript, Tailwind, Estructuras de Datos y Algoritmos (DSA) y React.<br><br>📫 Cómo contactarme: btorresrivas75@gmail.com
+Desarrollador Frontend en formación.<br>Siempre en busca de nuevas oportunidades para aprender y descubrir.<br>Mi objetivo es contribuir al mundo de la programación creando soluciones innovadoras y compartiendo conocimientos con la comunidad. ¡Conéctate conmigo para explorar el emocionante universo de la codificación juntos!<br>🌱 Actualmente estoy aprendiendo Java y Backend.<br><br>💬 Pregúntame sobre JavaScript, Tailwind, Estructuras de Datos y Algoritmos (DSA) y React.<br><br>📫 Cómo contactarme: t.me/xaxole98
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/btorres73) 
