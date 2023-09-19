@@ -6,7 +6,7 @@ Soy un Desarrollador Junior con menos de 4 meses de experiencia, enfocado en el 
 - GitHub: [xaxole98](https://github.com/xaxole98)
 - Telegram: [Telegram](https://t.me/xaxole98)
 
-## 🌐 Redes Sociales:
+# 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-pacheco-developer/) 
 
 # 💻 Tecnologías:
@@ -23,7 +23,7 @@ Soy un Desarrollador Junior con menos de 4 meses de experiencia, enfocado en el 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=xaxole98&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 
-### 🔝 Repositorio más Contribuido
+# 🔝 Repositorio más Contribuido
 ![Mis contribuciones en GitHub](https://github-contributor-stats.vercel.app/api?username=xaxole98&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
