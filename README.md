@@ -37,4 +37,4 @@ I'm a Junior Developer with less than 4 months of experience, focused on Fronten
 
 ## Insignia
 
-![Insignia](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png)
+![Insignia](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_esp&utm_medium=email&utm_source=RD+Station)
