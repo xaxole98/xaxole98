@@ -34,3 +34,7 @@ I'm a Junior Developer with less than 4 months of experience, focused on Fronten
 
 ## 🔝 Most Contributed Repository
 ![My GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=xaxole98&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## Insignia
+
+![Insignia](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211831Prancheta_8.png)
