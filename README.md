@@ -1,5 +1,6 @@
 # 💫 Sobre mí:
-Desarrollador Frontend en formación.<br>Siempre en busca de nuevas oportunidades para aprender y descubrir.<br>Mi objetivo es contribuir al mundo de la programación creando soluciones innovadoras y compartiendo conocimientos con la comunidad. ¡Conéctate conmigo para explorar el emocionante universo de la codificación juntos!<br>🌱 Actualmente estoy aprendiendo Java y Backend.<br><br>💬 Pregúntame sobre JavaScript, Tailwind, Estructuras de Datos y Algoritmos (DSA) y React.<br><br>📫 Cómo contactarme: [Telegram](https://t.me/xaxole98)
+Desarrollador Junior con menos de 4 meses de experiencia, enfocado en Frontend y en constante aprendizaje. Mi habilidad principal se centra en Java, MySQL y Spring Boot hasta el momento. Siempre en busca de nuevas oportunidades para aprender y crecer en el mundo de la programación. Mi objetivo es contribuir al campo de la tecnología creando soluciones innovadoras y compartiendo conocimientos con la comunidad. ¡Conéctate conmigo para explorar el emocionante universo de la codificación juntos! 🌱
+<br><br>💬 Pregúntame sobre JavaScript, Tailwind, Estructuras de Datos y Algoritmos (DSA) y React.<br><br>📫 Cómo contactarme: [Telegram](https://t.me/xaxole98)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/btorres73) 
