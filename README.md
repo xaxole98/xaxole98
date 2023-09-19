@@ -20,9 +20,6 @@ Desarrollador Junior con menos de 4 meses de experiencia, enfocado en Frontend y
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xaxole98&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xaxole98&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Cita de Desarrollador al Azar
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Repositorio más Contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=xaxole98&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
