@@ -3,7 +3,6 @@ I'm a Junior Developer with less than 4 months of experience, focused on Fronten
 
 <p align="center">
 <img height=300 src="https://github-stats-alpha.vercel.app/api/?username=xaxole98&cc=000&tc=fff&ic=fff&bc=000">
-<img width=750 src="https://github-profile-trophy.vercel.app/?username=xaxole98&theme=darkhub">
 </p>
 
 📫 How to reach me:
